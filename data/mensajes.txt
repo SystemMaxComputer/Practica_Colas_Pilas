@@ -1,0 +1,20 @@
+1. Tengo una duda sobre el proceso de facturación.
+2. Es una emergencia, necesito ayuda de inmediato.
+3. Tengo un problema con la conexión a internet.
+4. Consulta rápida: ¿Cómo restablezco mi contraseña?
+5. Hay un fallo crítico en el sistema, todo se ha detenido.
+6. Urgente: No puedo acceder a mi cuenta bancaria.
+7. Me surge una duda con respecto al pago de mi suscripción.
+8. Esto es un problema grave, la plataforma no responde.
+9. Fallo crítico detectado en el servidor de producción.
+10. Necesito asistencia urgente para resolver este error.
+11. Consulta: ¿Cómo puedo cambiar la configuración de mi cuenta?
+12. Urgente, el sistema no carga correctamente.
+13. Tengo un problema con la actualización de la aplicación.
+14. Duda sobre los términos y condiciones del servicio.
+15. Emergencia total, se ha caído toda la red.
+16. ¿Pueden ayudarme con una consulta técnica sobre el producto?
+17. Hay un fallo crítico en la base de datos, necesito soporte.
+18. Tengo una duda sobre cómo recuperar mis archivos eliminados.
+19. Urgente: El servicio está fuera de línea para todos los usuarios.
+20. Necesito ayuda con un problema que impide el acceso a mis datos.
